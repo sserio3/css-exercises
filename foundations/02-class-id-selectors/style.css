@@ -1,0 +1,19 @@
+.num_class {
+    background-color: #ff8b8b;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num_2 {
+    color: #0902e1;
+    font-size: 36px;
+}
+
+.num_3 {
+    font-size: 24px;
+}
+
+#num_4 {
+    background-color: #5aff7e;
+    font-size: 24px;
+    font-weight: bold;
+}
